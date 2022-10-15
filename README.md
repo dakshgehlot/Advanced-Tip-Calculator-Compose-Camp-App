@@ -7,8 +7,7 @@ GDSC's Compose Camp submission by Mukesh Patel School of Technology Management &
 Application Name: Advanced Tip Calculator
 
 <b> Problem Statement:</b>
-Whenever people go out with friends and family, they often feel confused about the tip value that should be given to a person for their service. The tip, which is generally a small percentage of the total bill, becomes harder to calculate when there are groups of people because the bill needs to be split equally among everyone. And sometimes, someone might want to look at recent transactions they did under such situations.
-
+Our app, “Advanced Tip Calculator”, has the function in which one enters the bill and selects the tip percentage by clicking one of the buttons. It also has the feature to split the bill between multiple people. It is an advanced version that displays the total per person (which is bill + tip), bill per person and tip per person. Additionally, the app saves transaction details locally and displays them in a list in the history page.
 <b> Proposed Solution:</b>
 Our project aimed at solving simple day to day tip calculations of a private business or an individual. We created our app using Jetpack Compose, that can help people calculate the tip with respect to the total bill. The application has the functionality to split the bill between multiple people. It is an advanced version that displays the total per person (which is bill + tip), bill per person and tip per person. Additionally, it also has the feature to save transaction details and display them in a list in the history page.
 
@@ -24,7 +23,7 @@ We have used functionalities and concepts including but not limited to:
 8) Buttons
 
 <b> Application Link & Future Scope : </b>
-<br>
-Application Link: [Advanced-Tip-Calculator]()
+<br> <br>
+Application Link: [Advanced-Tip-Calculator-APK](https://drive.google.com/file/d/1xXJanxT2mpZADDUg8TgvABaruUFiTpfz/view?usp=sharing)
 <br>
 Future Scope: We plan to include login/signup functionality using Firebase. This would enable people to create accounts on the app and synchronize their transaction history across multiple devices. Including custom themes as per the user choice is also a part of the future plan. We can then deploy our application to Play Store and roll it out to help everyone.
