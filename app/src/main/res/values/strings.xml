@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Advanced Tip Calculator</string>
+    <string name="detailsPage">Transaction Details</string>
+    <string name="historyPage">Transaction History</string>
+    <string name="tip_calculator">Tip Calculator</string>
+    <string name="info">Info</string>
+    <string name="info_content_1">A lot of people go to restaurants everyday, where tipping is quite a common practise. Keeping this in mind, we developed an application that makes the process easier by providing people with a lot of tipping options. \n\nThe application has the functionality to split the bill between multiple people. It is an advanced version that displays the total per person, bill per person and tip per person. Additionally, it also has the feature to save transaction details and display them in a list in the history page.</string>
+    <string name="info_content_2">The project is aimed at solving simple day to day tip calculations of a private business or an individual. While developing the app, the following Jetpack Compose concepts were used: \n\n1) Viewmodel \n2) Compose Navigation \n3) Room \n4) Scrollable Lists (LazyColumn), \n5) Layouts (Row, Column, Box) \n6) Themes \n7) Buttons</string>
+    <string name="back">Back</string>
+    <string name="about_us">About us button</string>
+    <string name="advanced_tip_calculator">\"Advanced Tip Calculator\"</string>
+    <string name="compose_camp_logo">Compose Camp Logo</string>
+    <string name="calculate">Calculate</string>
+    <string name="history">History</string>
+    <string name="enter_total_bill">Enter total bill</string>
+    <string name="choose_tip">Choose tip</string>
+    <string name="button_label_10_percent">10%</string>
+    <string name="button_label_15_percent">15%</string>
+    <string name="button_label_20_percent">20%</string>
+    <string name="split">Split</string>
+    <string name="total_per_person">Total per person</string>
+    <string name="bill">Bill</string>
+    <string name="tip">Tip</string>
+    <string name="history_button">History Button</string>
+    <string name="history_bill">Bill:</string>
+    <string name="history_tip">Tip:</string>
+    <string name="history_total">Total:</string>
+    <string name="per_person">per person</string>
+</resources>
