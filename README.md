@@ -21,7 +21,7 @@ We have used functionalities and concepts including but not limited to:
 3) Room
 4) Livedata
 5) Scrollable Lists
-6) States
+6) States & StateFlow
 7) Layouts
 8) Themes
 9) Buttons
