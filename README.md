@@ -21,9 +21,10 @@ We have used functionalities and concepts including but not limited to:
 3) Room
 4) Livedata
 5) Scrollable Lists
-6) Layouts
-7) Themes
-8) Buttons
+6) States
+7) Layouts
+8) Themes
+9) Buttons
 
 <b> Application Link & Future Scope : </b>
 <br> <br>
